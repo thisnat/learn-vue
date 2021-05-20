@@ -1,4 +1,4 @@
-# learn vue
+learn vue,vue-router and test using yarn instead npm
 
 ## Project setup
 ```
